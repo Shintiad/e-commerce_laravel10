@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('../../public/fonts/Jost-VariableFont_wght.ttf') format('truetype');
+    /* tambahkan varian font lainnya seperti bold, italic, dll jika diperlukan */
+}
+
+body {
+    font-family: 'Jost', sans-serif;
+    background-color: white;
+}
+.container {
+    margin-top: 50px !important;
+    z-index: 1;
+}
